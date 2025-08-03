@@ -86,7 +86,7 @@ The model is based on a standard UNet, modified to condition on color input:
 - **Validation**:
   - PSNR \~28 dB on validation set
   - SSIM \~0.92
-- **wandb Link**: [Click to view](https://wandb.ai/your-project-link)
+- **wandb Link**: [Click to view](https://wandb.ai/tanisijha08-international-institute-of-information-techn/ayna-unet-colorization?nw=nwusertanisijha08)
 
 ### ⚠️ Typical Failure Modes
 
