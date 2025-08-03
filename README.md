@@ -123,5 +123,5 @@ Run the provided `inference.ipynb` notebook to:
 - ✅ `inference.ipynb`: Visual test and demo.
 - ✅ UNet model code (`model.py`)
 - ✅ `README.md` (you are here)
-- ✅ wandb Project: [wandb.ai/your-project](https://wandb.ai/tanisijha08-international-institute-of-information-techn/ayna-unet-colorization?nw=nwusertanisijha08)
+- ✅ wandb Project: [wandb.ai/](https://wandb.ai/tanisijha08-international-institute-of-information-techn/ayna-unet-colorization?nw=nwusertanisijha08)
 
