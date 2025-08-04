@@ -1,4 +1,4 @@
-# 👀 unet-colored-shapes
+# PolygonPainter: A UNet-based Color Generator
 
 ## 🚀 Objective
 
